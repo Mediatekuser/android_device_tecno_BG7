@@ -1,4 +1,4 @@
-# Device tree for the TECNO POVA 5 (LH7n)
+# Device tree for the TECNO Spark 20c (BG7)
 
 ## Device specifications
 
@@ -11,9 +11,9 @@
 | Shipped Android version | 13                                                          |
 | Storage                 | 128GB                                                       |
 | MicroSD                 | MicroSDXC                                                   |
-| Battery                 | Non-removable Li-Po 6000 mAh                                |
-| Dimensions              | 168.6 x 76.6 x 9 mm                                         |
-| Display                 | 1080 x 2460 pixels, 6.78 inches                             |
+| Battery                 | Non-removable Li-Po 5000 mAh                                |
+| Dimensions              | 163.7 x 75.6 x 8.6 mm                                         |
+| Display                 | 720 x 1612 pixels, 6.6 inches                             |
 | Rear Camera 1           | 50 MP, f/1.6, (wide), 1/2.76", PDAF                         |
 | Rear Camera 2           | 0.08 MP (auxiliary lens)                                    |
 | Front Camera            | 8 MP                                                        |
