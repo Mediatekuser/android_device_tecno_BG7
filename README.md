@@ -21,4 +21,4 @@
 
 ## Device Picture
 
-![TECNO CAMON 20 Pro 4G](https://fdn2.gsmarena.com/vv/pics/tecno/tecno-pova5-10.jpg)
+![TECNO CAMON 20 Pro 4G](https://fdn2.gsmarena.com/vv/pics/tecno/tecno-spark-20c-1.jpg)
